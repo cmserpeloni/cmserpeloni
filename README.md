@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-garoto de programa mirim ✨
+Estudando Engenharia de Software pela UniFil, busco me desenvolver e me tornar um Dev FullStack✨
